@@ -1,0 +1,27 @@
+.footerContainer {
+    display: flex;
+    flex: none;
+    justify-content: space-between;
+}
+
+.footerContainer p {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.footerContainer p i {
+    color: #f50000;
+}
+
+.footerContainer a {
+    color: #00152a;
+}
+
+.footerContainer p a {
+    font-weight: bold;
+}
+
+.footerContainer a:hover {
+    color: rgb(211, 0, 0);
+}

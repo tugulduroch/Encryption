@@ -1,0 +1,9 @@
+.body {
+    background: rgb(237,146,125);
+    background: linear-gradient(121deg, rgba(237,146,125,1) 0%, rgba(248,212,200,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: auto;
+    font-family: 'Rubik', sans-serif;
+}
